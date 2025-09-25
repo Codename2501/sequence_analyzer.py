@@ -31,7 +31,7 @@ Anyone can verify the reproducibility of this phenomenon by running the code and
 2.  In your terminal (or command prompt), execute the following command:
 
 ```bash
-python3 PIanalysis.py
+python3 sequence_analyser.py
 ```
 The script will automatically read data files such as `PI_100000.txt` or `e_100000.txt` and run the analysis. Please note that the computation may take several hours depending on CPU performance.
 
